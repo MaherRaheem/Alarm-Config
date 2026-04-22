@@ -1,5 +1,5 @@
 {
-  "music_hour": 10,
-  "alarm_hour": 14,
+  "music_hour": 22,
+  "alarm_hour": 8,
   "receiver_ip": "192.168.33.104"
 }
