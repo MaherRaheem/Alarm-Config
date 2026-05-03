@@ -3,6 +3,6 @@
   "alarm_hour": 8,
   "volume": 24,
   "receiver_ip": "192.168.33.104",
-  "delay_before_send": 600,
+  "delay_before_send": 0,
   "spam_duration": 120
 }
