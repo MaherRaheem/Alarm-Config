@@ -5,6 +5,6 @@
   "alarm_minute": 58,
   "volume": 24,
   "receiver_ip": "192.168.33.104",
-  "delay_before_send": 5,
+  "delay_before_send": 0,
   "spam_duration": 120
 }
