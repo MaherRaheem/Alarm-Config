@@ -1,9 +1,9 @@
 {
-  "music_hour": 21,
+  "music_hour": 22,
   "music_minute": 0,
-  "alarm_hour": 5,
+  "alarm_hour": 8,
   "alarm_minute": 0,
-  "volume": 25,
+  "volume": 30,
   "receiver_ip": "192.168.33.104",
   "delay_before_send": 0,
   "spam_duration": 1200
